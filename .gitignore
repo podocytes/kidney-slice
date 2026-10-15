@@ -1,0 +1,9 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.DS_Store
+*.log
+manuscript_10092026_outputs/
+*.RData
+*.RData.gz
